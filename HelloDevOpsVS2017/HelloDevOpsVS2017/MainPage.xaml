@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:HelloDevOpsVS2017"
+             x:Class="HelloDevOpsVS2017.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="GBP Version of HelloDevOps!" 
+           HorizontalOptions="Center" 
+           VerticalOptions="CenterAndExpand" />
+        <Label Text="Started from VS2017, will it build Azure+MAC Host?" 
+           HorizontalOptions="Center" 
+           VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+
+</ContentPage>
